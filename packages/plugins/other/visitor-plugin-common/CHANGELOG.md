@@ -1,5 +1,11 @@
 # @graphql-codegen/visitor-plugin-common
 
+## 1.17.22
+
+### Patch Changes
+
+- c463f282: Support for input lists coercion
+
 ## 1.17.21
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @graphql-codegen/cli
 
+## 1.19.5
+
+### Patch Changes
+
+- c463f282: CLI with watch option will reload using new config on change
+
 ## 1.19.4
 
 ### Patch Changes
